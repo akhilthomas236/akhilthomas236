@@ -89,6 +89,11 @@ Highly skilled Senior DevOps and Cloud Engineer with extensive experience in Lin
 
 **Bachelor of Science in [Electronics and Communications]**
 
+## 📊 GitHub Stats
+
+![Thomas Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilthomas236&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilthomas236&layout=compact&theme=radical)
+
 ## Certifications
 
 - **CKA: Certified Kubernetes Administrator** - The Linux Foundation

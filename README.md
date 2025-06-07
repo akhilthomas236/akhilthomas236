@@ -1,4 +1,7 @@
 # [Thomas T Thomas]
+![GitHub followers](https://img.shields.io/github/followers/akhilthomas236?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=akhilthomas236&color=brightgreen)
+
 [Kazhakootam]  
 [Trivandrum,Kerala,India]  
 [akhilthomas236@gmail.com]  
